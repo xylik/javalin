@@ -16,3 +16,6 @@ buildNumber.properties
 .settings
 .project
 .factorypath
+
+# Mini-Javalin POC build artifacts
+mini-javalin-poc/target/
